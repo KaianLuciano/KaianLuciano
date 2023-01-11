@@ -8,6 +8,7 @@
   <img align="center" alt="Kaian-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="Kaian-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
   <img align="center" alt="Kaian-GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+  <img align="center" alt="Kaian-MySql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/MySql/MySql-original.svg">
 </div>
   
   ##
