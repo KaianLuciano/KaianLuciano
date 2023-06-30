@@ -1,8 +1,8 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000c&height=160&section=header&text=Kaian%20Luciano%20&fontSize=30&fontColor=000000&animation=twinkling&fontAlignY=35" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000c&height=160&section=header&text=Kaian%20Luciano%20&fontSize=30&fontColor=00FF00&animation=twinkling&fontAlignY=35" />
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu+Code&pause=1000&color=000000&center=true&width=500&lines=Desenvolvedor+Back-End+Java)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu+Code&pause=1000&color=00FF00&center=true&width=500&lines=Desenvolvedor+Back-End+Java)](https://git.io/typing-svg)
 
 </div>
 
